@@ -14,7 +14,7 @@ public class User {
     private String userName;
     private Date birthDate;
     private String countryResidance;
-    private String phoneNumber;
+    private String phoneNumber ;
     private String gender;
 
     public int getId() {

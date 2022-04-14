@@ -1,0 +1,3 @@
+INSERT INTO CITY VALUES (1, 'Maria', 28/04/1986, France, '07 99 66 77 56', 'F');
+INSERT INTO CITY VALUES (2, 'Ecaterina', 28/04/1996, Romania, null, 'F');
+INSERT INTO CITY VALUES (3, 'Test', 01/01/2010, France, '0502685947','M');
